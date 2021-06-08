@@ -20,7 +20,7 @@ ENV LANG="en_US.UTF-8" \
     BITRISE_PREP_DIR="/bitrise/prep" \
     BITRISE_TMP_DIR="/bitrise/tmp" \
     # Configs - tool versions
-    TOOL_VER_BITRISE_CLI="1.44.0" \
+    TOOL_VER_BITRISE_CLI="1.47.0" \
     TOOL_VER_RUBY="2.7.0" \
     TOOL_VER_GO="1.15.2" \
     TOOL_VER_DOCKER="5:19.03.0" \

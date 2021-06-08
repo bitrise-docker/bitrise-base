@@ -1,4 +1,12 @@
-## UPCOMING
+# Changelog
+All notable changes to this project will be documented in this file.
+
+## [Unreleased]
+
+## `v2021_06_08`
+* `update bitrise-cli to 1.47.0`
+
+## [Released]
 
 ## `v2021_03_30`
 * `update git version to latest (2.31.1)`
